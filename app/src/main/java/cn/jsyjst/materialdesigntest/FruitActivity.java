@@ -9,9 +9,7 @@ import android.widget.TextView;
 import android.support.v7.widget.Toolbar;
 
 
-/**
-/**水果折叠标题
-*/
+
 public class FruitActivity extends AppCompatActivity {
 
     @Override
